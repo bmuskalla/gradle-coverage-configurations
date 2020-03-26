@@ -1,0 +1,6 @@
+```
+$ ./gradlew :aggregator:codeCoverageReport
+```
+
+HTML report at `aggregator/build/reports/jacoco/codeCoverageReport/html/index.html`
+XML report (sonarqube, coverall, codecov) at `aggregator/build/reports/jacoco/codeCoverageReport/codeCoverageReport.xml`
