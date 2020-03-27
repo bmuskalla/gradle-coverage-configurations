@@ -22,7 +22,7 @@ dependencies {
 }
 ```
 
-Interesting bits are [the plugins hosted in `buildSrc`](/tree/master/buildSrc/src/main/java/com/example/jacoco/report) 
+Interesting bits are [the plugins hosted in `buildSrc`](https://github.com/bmuskalla/gradle-coverage-configurations/tree/master/buildSrc/src/main/java/com/example/jacoco/report) 
 
 ### Output
 
